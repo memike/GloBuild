@@ -1,0 +1,5 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card-text {
+    font-size: 14px;
+}

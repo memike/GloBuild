@@ -1,0 +1,11 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.font-white {
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .font-white {
+        color: #777;
+    }
+}
